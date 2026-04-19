@@ -43,9 +43,6 @@ python scripts/trim_audio.py <input.mp3> <input.srt>
 
 ## 详细使用指导
 
-```bash
-python scripts/trim_audio.py <input.mp3> <input.srt> [-o output_dir] [options]
-```
 
 ### 参数
 
