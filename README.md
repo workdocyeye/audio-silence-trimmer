@@ -32,15 +32,7 @@ git clone https://github.com/workdocyeye/audio-silence-trimmer.git ~/.config/ope
 
 安装后重启 OpenCode，在对话中 `@` 引用你的音频和 SRT 文件，使用 `/audio-silence-trimmer` 命令即可调用。
 
-### 方式二：Claude Code Skill
-
-将 Skill 文件放入 Claude Code 的 skills 目录：
-
-```bash
-git clone https://github.com/workdocyeye/audio-silence-trimmer.git ~/.claude/skills/audio-silence-trimmer
-```
-
-### 方式三：直接运行 Python
+### 方式二：直接运行 Python
 
 ```bash
 git clone https://github.com/workdocyeye/audio-silence-trimmer.git

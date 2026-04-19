@@ -1,0 +1,6 @@
+# No pip dependencies required.
+# This script uses only Python standard library (subprocess, sys, re, argparse, pathlib).
+#
+# System requirement:
+#   ffmpeg must be installed and available in PATH
+#   Download: https://ffmpeg.org/download.html
